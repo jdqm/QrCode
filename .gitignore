@@ -1,0 +1,6 @@
+target
+.idea
+### Mac OS ###
+.DS_Store
+# Project exclude paths
+/out/
